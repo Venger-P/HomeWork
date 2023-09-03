@@ -1,0 +1,31 @@
+body {
+    background: #262628;
+}
+
+.inner {
+    font-size: 35px;
+    color: #ffffff;
+}
+
+.block__white{
+    background: #ffffff;
+    border-radius: 10px;
+    min-width: 100px;
+    min-height: 100px;
+
+    position: fixed;
+    left: 50vw;
+    right: 50px;
+    bottom: 100px;
+}
+
+.block__red{
+    background: #ff0000;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+
+    position: fixed;
+    left: 57vw;
+    bottom: 150px;
+}
